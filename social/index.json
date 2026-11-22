@@ -1,0 +1,6 @@
+{
+ "schedules": [
+  "week1/schedule.json"
+ ],
+ "note": "Daily posting task reads every schedule listed here."
+}
